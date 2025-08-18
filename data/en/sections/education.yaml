@@ -41,6 +41,24 @@ degrees:
     scale: GPA
     achieved: 9.2
     outOf: 10
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+      showGrades: true
+      collapseAfter: 3
+      courses:
+      - name: Celular and Molecular Biology
+        achieved: 8.1
+        outOf: 10
+      - name: Recombinant DNA Technology
+        achieved: 9.1
+        outOf: 10
+      - name: Genomics and Bioinformatics
+        achieved: 9.2
+        outOf: 10
+  publications: #(optional)
+  - title: De Novo miRNAs from Anisopteromalus calandrae (Hymenoptera Pteromalidae) Conserved in the Order Hymenoptera.
+    url: "https://doi.org/10.3390/insects15121007"
+
   customSections: #(optional)
     - name: Thesis
       content: "Predictive and <i>in-silico</i> functional analysis of small RNAs in the <i>Trichoderma atroviride</i>-<i>Arabidopsis thaliana</i> interaction."
@@ -67,30 +85,45 @@ degrees:
     showGrades: true
     collapseAfter: 3
     courses:
-    - name: Data Structures and Algorithm
-      achieved: 3.75
-      outOf: 4
-    - name: Network Security
-      achieved: 3.80
-      outOf: 4
-    - name: Operating System
-      achieved: 3.5
-      outOf: 4
-    - name: Artificial Intelligent
-      achieved: 3.75
-      outOf: 4
+    - name: Bioestatistics
+      achieved: 81
+      outOf: 100
+    - name: Bionformatics and programming
+      achieved: 96
+      outOf: 100
+    - name: Bioinformatics and simmulation
+      achieved: 93
+      outOf: 100
+    - name: Structural Genomics
+      achieved: 87
+      outOf: 100
+    - name: Functional Genomics
+      achieved: 88
+      outOf: 100
+    - name: Comparative Gneomics
+      achieved: 96
+      outOf: 100
+    - name: Sequencing and Genom annotation
+      achieved: 92
+      outOf: 100
+    - name: Proteomics
+      achieved: 82
+      outOf: 100
+    - name: System Biology
+      achieved: 84
+      outOf: 100
+
   publications: #(optional)
-  - title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-    url: "#"
-  - title: Fusce eu augue ut odio porttitor pulvinar.
-    url: "#"
-  extracurricularActivities: #(optional)
-  - In vitae facilisis est, eget porta sem.
-  - Vestibulum consectetur lorem justo, at laoreet lorem feugiat et.
-  - Duis sed massa feugiat, ornare justo et, aliquam est.
-  - Pellentesque ut fringilla magna.
+  - title: miRNAs of Aedes aegypti (Linnaeus 1762) conserved in six orders of the class Insecta.
+    url: "https://doi.org/10.1038/s41598-021-90095-9"
+  - title: Las enfermedades emergentes transmitidas porvectores:paludismo, dengue, Chikungunyay zika.
+    url: "https://doi.org/10.29105/bys1.1-62"
+  - title: Genomic Mining, Evolution Analysis, and Structural Characterization of the Sepik Virus.
+    url: "https://doi.org/10.3958/059.043.0128"
   customSections: #(optional)
     - name: Thesis
-      content: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      content: Identificación de miRNAs de <i>Aedes aegypti</i> (Linnaeus, 1762) conservados en organismos dela clase Insecta.
+    - name: Laboratory
+      content: Laboratorio de Fisiología Molecular y Estructural (LFMyE)
     - name: Supervisor
-      content: Fusce eu augue ut odio porttitor pulvinar.
+      content: PhD Irám Pablo Rodríguez Sánchez.
