@@ -29,7 +29,7 @@ degrees:
     - name: Laboratory
       content: Trichoderma-Plant-Pathogen Interaction Group (Funcogen Lab)
     - name: Supervisor
-      content: PhD J. Sergio Casas Flores
+      content: Dr. J. Sergio Casas Flores
 - name: M.Sc. in Molecular Biology
   icon: fas fa-seedling
   timeframe: 2019-2021
@@ -65,7 +65,7 @@ degrees:
     - name: Laboratory
       content: Trichoderma-Plant-Pathogen Interaction Group (Funcogen Lab) <br> <i>Laboratorio de Bioinformática e IA</i> (AI-BioLab)
     - name: Supervisor
-      content: PhD J. Sergio Casas Flores <br> PhD Cesaré Moisés Ovando Vázquez
+      content: Dr. J. Sergio Casas Flores <br> Dr. Cesaré Moisés Ovando Vázquez
 
 - name: B.Sc. in Genomic Biothechnology
   icon: fas fa-mosquito
@@ -126,4 +126,4 @@ degrees:
     - name: Laboratory
       content: Laboratorio de Fisiología Molecular y Estructural (LFMyE)
     - name: Supervisor
-      content: PhD Irám Pablo Rodríguez Sánchez.
+      content: Dr. Irám Pablo Rodríguez Sánchez.
