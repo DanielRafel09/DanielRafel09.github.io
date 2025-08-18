@@ -56,7 +56,7 @@ degrees:
         achieved: 9.2
         outOf: 10
   publications: #(optional)
-  - title: De Novo miRNAs from Anisopteromalus calandrae (Hymenoptera Pteromalidae) Conserved in the Order Hymenoptera.
+  - title: De Novo miRNAs from Anisopteromalus calandrae (Hymenoptera:Pteromalidae) Conserved in the Order Hymenoptera.
     url: "https://doi.org/10.3390/insects15121007"
 
   customSections: #(optional)
@@ -116,7 +116,7 @@ degrees:
   publications: #(optional)
   - title: miRNAs of Aedes aegypti (Linnaeus 1762) conserved in six orders of the class Insecta.
     url: "https://doi.org/10.1038/s41598-021-90095-9"
-  - title: Las enfermedades emergentes transmitidas porvectores:paludismo, dengue, Chikungunyay zika.
+  - title: Las enfermedades emergentes transmitidas por vectores:paludismo, dengue, Chikungunya y zika.
     url: "https://doi.org/10.29105/bys1.1-62"
   - title: Genomic Mining, Evolution Analysis, and Structural Characterization of the Sepik Virus.
     url: "https://doi.org/10.3958/059.043.0128"
