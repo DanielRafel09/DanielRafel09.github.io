@@ -86,8 +86,43 @@ publications:
   - name: Dr. Gustavo Ponce-Garcia
     url: https://orcid.org/0000-0003-0654-006X
   paper:
-    summary: This study analyzed the miRNA profile of the parasitoid wasp <i>Anisopteromalus calandrae</i> and compared it with five other Hymenoptera species, identifying 108 miRNAs (75 conserved and 34 new) using molecular and bioinformatics methods.
+    summary: This study identified 55 conserved microRNAs in <i>Aedes aegypti</i> mosquitoes (vectors of dengue, Zika, and other diseases) that regulate embryonic development, metamorphosis, and cellular functions.
     url: https://doi.org/10.1038/s41598-021-90095-9
-  categories: ["srna-seq","agriculture"]
-  tags: ["srna-seq","insects","miRNA","bioinformatics","agriculture"]
-
+  categories: ["srna-seq","medicine"]
+  tags: ["srna-seq","insects","miRNA","bioinformatics","medicine"]
+- title: "Genomic Mining, Evolution Analysis, and Structural Characterization of the Sepik Virus"
+  publishedIn:
+    name: Southwestern Entomologist
+    date: 01 March 2018
+    url: https://bioone.org/journals/southwestern-entomologist
+  authors:
+  - name: M.Sc. Daniel Rafael Saldaña-Torres
+    url: https://orcid.org/0000-0002-0997-1490 
+  - name: Dr. Martha Patricia López-Rodríguez
+  - name: Dr. Gerardo de Jesús Trujillo-Rodríguez
+    url: https://orcid.org/0000-0003-1733-7366
+  - name: Dr. Olga Karina Villanueva-Segura
+    url: https://orcid.org/0000-0002-1976-8277
+  - name: Dr. Gustavo Ponce-Garcia
+    url: https://orcid.org/0000-0003-0654-006X
+  - name: Dr. Rafael González-Alvarez
+    url: https://orcid.org/0000-0002-8708-3210
+  - name: Dr. Ivan Delgado-Enciso
+    url: https://orcid.org/0000-0001-9848-862X
+  - name: Dr. Margarita L. Martinez-Fierro
+    url: https://orcid.org/0000-0003-1478-9068
+  - name: Dr. Laura Elia Martínez-De-Villarreal
+    url: https://orcid.org/0000-0003-1442-9089
+  - name: Dr. Raquel Garza-Guajardo
+    url: https://www.researchgate.net/profile/Raquel-Garza-Guajardo
+  - name: Dr. Oralia Barboza-Quintana
+    url: https://www.researchgate.net/profile/Oralia-Quintana
+  - name: Dr. Adriana E. Flores-Suarez
+    url: https://orcid.org/0000-0001-8554-8865
+  - name: Dr. Iram Pablo Rodríguez-Sánchez
+    url: https://orcid.org/0000-0002-5988-4168
+  paper:
+    summary: Conducted comprehensive genomic analysis of Sepik virus, an arthropod-transmitted flavivirus, to advance understanding of vector-borne disease mechanisms and identify potential therapeutic targets. 
+    url: https://doi.org/10.3958/059.043.0128
+  categories: ["srna-seq","medicine"]
+  tags: ["srna-seq","virus","miRNA","bioinformatics","medicine"]
