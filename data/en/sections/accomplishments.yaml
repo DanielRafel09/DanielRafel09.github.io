@@ -11,36 +11,34 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Linux Foundation System Administrator
-  timeline: "March 2018 - March 2019"
+- name: Forensic Entomology Diploma
+  timeline: "October 2016 - November 2016"
   organization:
-    name: Linux Foundation
-    url: https://www.linuxfoundation.org
-  courseOverview: This course helps to understand the key concepts such as networking, storage, security, maintenance, logging and monitoring, application lifecycle, troubleshooting, API object primitives etc. It also help to grow the ability to establish basic use-cases for end users.
-  certificateURL: "https://example.com"
+    name: Universidad Autónoma de Nuevo León (UANL)
+    url: https://www.uanl.mx/educacion_co/entomologia-forense/
+  courseOverview: "Provides the necessary knowledge to understand the basic principles of forensic entomology, its application in criminal investigations, as well as the collection and preservation of entomological evidence."
+  certificateURL: "https://mega.nz/file/FFFDnLyJ#DpGNzsnigObGYtVa_UzDYXcIWopPbNmFlPaaYl-arbY"
 
-- name: Machine Learning
-  timeline: "Jun 2020 - Jan 2021"
+- name: Japanese Language Proficiency Test N5
+  timeline: "January 2018 - January 2018"
   organization:
-    name: Coursera
-    url: https://www.coursera.org
-  courseOverview: "This course provides a broad introduction to machine learning, datamining, and statistical pattern recognition. Topics include: (i) Supervised learning (parametric/non-parametric algorithms, support vector machines, kernels, neural networks). (ii) Unsupervised learning (clustering, dimensionality reduction, recommender systems, deep learning). (iii) Best practices in machine learning (bias/variance theory; innovation process in machine learning and AI)."
-  certificateURL: "https://example.com"
+    name: Japan Foundation
+    url: https://www.jpf.go.jp/e/
+  courseOverview: "The Japanese Language Proficiency Test (JLPT) is a standardized criterion-referenced test to evaluate and certify the Japanese language proficiency of non-native speakers."
+  certificateURL: "https://mega.nz/file/VVUziIyB#73M_xg6T6QauibuqDYdzjozrbG1Dj_C9WNI_GZJTryg"
 
-- name: Grokking the System Design Interview
-  timeline: "Jan 2018 - Sept 2018"
+- name: TOEFL IBT
+  timeline: "May 2021 - May 2021"
   organization:
-    name: educative
-    url: https://www.educative.io
-  courseOverview: This course is a complete guide to master the SDIs. It is created by hiring managers who’ve been working at Google, Facebook, Microsoft, and Amazon. We've carefully chosen a set of questions that have not only been repeatedly asked at top companies, but also provide a thorough experience to handle any system design problem.
-  certificateURL: "https://example.com"
+    name: Educational Testing Service (ETS)
+    url: https://www.ets.org/toefl
+  courseOverview: "The Test of English as a Foreign Language (TOEFL) is a standardized test to measure the English language ability of non-native speakers wishing to enroll in English-speaking universities."
+  certificateURL: "https://mega.nz/file/5Ysx2AjS#skBTUJkpDERTwcsWGKZWcPFCmpfnLvjj4cEBuPKrVbk"
 
-- name: Mastering Multithreading Programming with Go (Golang)
-  timeline: "Nov 2017 - Mar 2018"
+- name: Associate Data Scientist Certificate
+  timeline: "July 2025 - July 2025"
   organization:
-    name: Udemy
-    url: https://www.udemy.com
-  courseOverview: Discover how to create responsive and high performance software. Develop programs with Golang that are highly Concurrent and Parallel. Improve your programming skills in Go with more advanced, multithreading topics.
-  certificateURL: "https://example.com"
- 
-
+    name: DataCamp
+    url: https://www.datacamp.com/
+  courseOverview: "The Associate Data Scientist certification is designed to validate foundational data science skills, including data manipulation, analysis, and visualization using tools like Python and R."
+  certificateURL: "https://careerhub-api.datacamp.com/certificates/DSA0017856260772/pdf"
